@@ -1,0 +1,53 @@
+header{
+    nav {
+        ul{
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            li{
+                list-style: none;
+                a{
+                    text-decoration: none;
+                    color: black;
+                }
+            }
+        }
+    }
+}
+.part1{
+    h1{
+        color: chartreuse;
+    }
+    p{
+        color: darkred;
+    }
+}
+.part2{
+    h2{
+        color: aqua;
+    }
+    p{
+        color: coral;
+    }
+}
+.part3{
+    h3{
+        color: blueviolet;
+    }
+    p{
+        color: blue;
+    }
+}
+.part4{
+    h4{
+        color: yellowgreen;
+    }
+    p{
+        color: yellow;
+    }
+}
+.part5{
+    label{
+        color: red;
+    }
+}
